@@ -19,13 +19,13 @@ This repository contains all deliverables for the Chapter 2 midterm submission. 
 .
 ├── README.md
 ├── Author's Note/
-│   └── Author's Note.pdf                 # 3 page Author's Note
+│   └── Author's Note.pdf                 
 ├── Chapter/
 │   └── Chapter 2-Hallucination-When Plausibility Beats Truth.pdf
 ├── Notebook/
 │   └── CHAPTER_2_Hallucination_Whe...ipynb
 └── Video/
-    └── video_link.txt                    # YouTube or Vimeo link
+    └── video_link.txt                    
 ```
 
 ---
